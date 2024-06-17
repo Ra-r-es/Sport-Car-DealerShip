@@ -35,3 +35,16 @@ The program supports the following commands through a command-line interface:
    ```bash
    g++ main.cpp -o masini
 1. **Commands**: Enter one of the supported commands (ADD, SELL, DISPLAY, DETALII, STOP) at the command prompt to interact with the system. Follow the prompts to provide necessary details for adding or selling cars.
+Example:
+   ```plaintext
+   ADD
+   Introduceti ce tip de masina doriti: COUPE
+   Marca masini este: BMW
+   Modelul este: M5
+   In ce an a fost fabricata: 2024
+   Pretul este: 80000
+   Cati cai are motorul: 473
+
+   SELL
+   Introduceti numarul masinii:1
+   Introduceti tipul masinii:COUPE
